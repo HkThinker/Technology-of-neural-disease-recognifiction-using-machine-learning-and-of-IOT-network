@@ -1,0 +1,1 @@
+# Technology-of-neural-disease-recognifiction-using-machine-learning-and-of-IOT-network
