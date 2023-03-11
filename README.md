@@ -7,6 +7,8 @@ Alzheimer_voice_GRU folder:
 4.Alzheimer_voice_show.py show original sound b waveform and spectrum code
 
 
-Parkinson_voice_GRU folder.
+Parkinson_voice_GRU folder:
+
 1.pd_voice.mat Feature dataset
+
 2.parkinson_voice_GRU.m 6-layer GRU network model matlab code
